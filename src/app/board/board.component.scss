@@ -1,0 +1,10 @@
+main {
+  display: grid;
+  grid-template-columns: 200px 200px 200px;
+  grid-gap: Opx;
+}
+
+app-square {
+  border: 1px Ogray solid;
+  height: 200px;
+}
